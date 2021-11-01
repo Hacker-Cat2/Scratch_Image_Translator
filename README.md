@@ -13,4 +13,9 @@ Instuctions for use:
 4. Create your own project that uses these scripts.
 5. Have fun!
 
+Troubleshooting:
+1. Make sure all required libraries are up to date
+2. Check for syntax errors
+3. Contact me on Scratch (or here?)
+
 I would really appreciate it if you credit me, both for the programs here on Github, and the decoder on Scratch using my username (@Hacker-Cat2 on both websites: https://scratch.mit.edu/users/Hacker-Cat2/ - Scratch, https://github.com/Hacker-Cat2/ - Github).
