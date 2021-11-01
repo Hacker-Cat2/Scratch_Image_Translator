@@ -9,4 +9,8 @@ All output code files will be stored in the .txt file type.
 Instuctions for use:
 1. Save the "Image_Translator.py" and the optional "Interface.py" files to wherever you're running them from.
 2. Incorperate them into your own projects however needed, or use as-is.
-3. Use the decoder in my project on Scratch
+3. Use the decoder in my project on Scratch here: https://scratch.mit.edu/projects/589671111/
+4. Create your own project that uses these scripts.
+5. Have fun!
+
+I would really appreciate it if you credit me, both for the "translator" here on Github, and the decoder on Scratch.
