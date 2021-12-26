@@ -1,7 +1,7 @@
 # Scratch Image Converter
 ## About
 - This is a simple program to convert images into the HSV colour format so Scratch can more easily draw them using the pen extension
-- It uses the `pillow` library to open images, the `colorsys` library to convert the rgb values of the image to hsv, and the `os` library to check before overwriting existing files
+- It uses the `pillow` library to open images and the `colorsys` library to convert the RGB values of the image to HSV
 - The `converter.py` file includes one function named `convert()` which will return the "image code" as a string
 - `ui.py` is the command line user interface that will save the converted "image code" to a text file
 
